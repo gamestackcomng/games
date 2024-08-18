@@ -20,6 +20,7 @@ body{
     background :#325872;
     position: relative;
     padding: 10px;
+    overscroll-behavior: none;
 }
 :root{
     --pour:none;

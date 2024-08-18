@@ -19,6 +19,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   background-color: #222738;
+  overscroll-behavior: none;
   
 }
 .wrapper {
